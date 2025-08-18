@@ -13,10 +13,12 @@
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=atak-0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atak-0&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atak-0&theme=tokyo-night)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atak-0&show_icons=true&theme=tokyonight)
+#--------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atak-0&layout=compact&theme=tokyonight)
+#--------------------
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atak-0&theme=tokyo-night)
+#--------------------
 ![GitHub Streak](https://streak-stats.demolab.com?user=atak-0&theme=tokyonight)
+#--------------------
+
