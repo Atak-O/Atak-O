@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Atakan
+🎯 A passionate student and Python learner from Turkey
 
-<!--
-**Atak-O/Atak-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Arduino & AI Projects  
+- 🌱 I’m currently learning: Python and ardiuno 
+  
 
-Here are some ideas to get you started:
+## 🔧 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- 🎉 Fun fact:Sometimes, instead of reading error messages while coding, l just
+stare at my computer and whisper, "Why aren't you working?" 
 -->
