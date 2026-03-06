@@ -1,5 +1,5 @@
 # Hi 👋, I'm Atak-O
-🎯 A passionate student and Python learner from Turkey
+🎯 A passionate student and Python learner from Türkiye
 
 - 🔭 I’m currently working on: Arduino & AI Projects  
 - 🌱 I’m currently learning: Python and Arduino  
