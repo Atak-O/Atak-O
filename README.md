@@ -1,4 +1,4 @@
-# Hi 👋, I'm Atak-O
+# Hi 👋, I'm Atakan
 🎯 A passionate student and Python learner from Türkiye
 
 - 🔭 I’m currently working on: Arduino & AI Projects  
