@@ -1,8 +1,8 @@
 # Hi 👋, I'm Atak-O
 🎯 A passionate student and Python learner from Türkiye
 
-- 🔭 I’m currently working on: Arduino & AI Projects  
-- 🌱 I’m currently learning: Python and Arduino  
+- 🔭 I’m currently working on:AI Projects  
+- 🌱 I’m currently learning: Nothing(:  
 
 ## 🔧 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
